@@ -1,0 +1,3 @@
+[submodule "udemy-ML-MathFoundation"]
+	path = udemy-ML-MathFoundation
+	url = git@github.com:GouthamShiv/udemy-ML-MathFoundation.git
